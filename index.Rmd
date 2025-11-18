@@ -33,6 +33,14 @@ In addition to these more formal resources, here are some random thoughts and le
 - Introduction sections can be challenging to write. The introduction to most journal papers can, however, be distilled down to 4-5 paragraphs. In general, these paragraphs should address four topics: (1) What is the broader context for the problem you are addressing? (2) What is the status quo? (3) What is wrong with the status quo? (4) Our objectives are...  
 - I never succeed in writing when my to-do list says "Write paper on X." I find all writing more manageable, when I focus on smaller goals. On average, I try to write 500 words per week (about 1-page), which boils down to a few sentences per day. This does not sound like much, but this pace for 50 work-weeks per year yields about 25,000 words per year. Most journal papers and technical reports are somewhere in the neighborhood of 5,000 words (i.e., 10-pages of text), so this small-scale goal adds up quickly.
 
+Here are set of sentence-scale checks that I use to review my own writing.  
+
+- Remove the, this, that, there, etc. Minimally, make sure that "this" is followed by a noun (i.e., "this website", "this study", "this result").  
+- Change “to be” verbs to action verbs because it makes the text more interesting.  
+- Look for long sentences with too many prepositional phrases.  
+- Remove punctuation from the title, if possible.
+- Refer to other papers parenthetically rather than in the text. Sentences that start with "Smith et al. found..." are hard to write well. They fundamentally make the authors the subject of the sentence, and the vast majority of the time, we want the science to the be object of the sentence. This sentence structure also has secondary implications like indirect references to gender and increasing sentence length.
+
 
 # **Authorship Discussions**
 
@@ -54,13 +62,6 @@ In my view, the following issues can help avoid or mitigate tensions about autho
 
 
 # **Peer Reviewing**
-
-Here are a series of quick checks I use after I have written something. I also apply these to peer review.  
-
-- Remove the, this, that, there, etc. Minimally, make sure that "this" is followed by a noun (i.e., "this website", "this study", "this result").  
-- Change “to be” verbs to action verbs because it makes the text more interesting.  
-- Look for long sentences with too many prepositional phrases.  
-- Remove punctuation from the title, if possible.
 
 To write a more respectful review, I try to do the following.  
 
